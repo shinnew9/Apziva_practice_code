@@ -4,6 +4,7 @@ Practice code for Project3, taken into 2 big stsps.
   <ul> - Word2Vec </ul>
   <ul> - Glove </ul>
   <ul> - FastText </ul>
-3. Training
+  
+2. Training
   <ul> - Learning-To-Rank </ul>
   <ul> - LambdaRank </ul>
