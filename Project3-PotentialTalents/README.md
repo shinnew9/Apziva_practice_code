@@ -5,5 +5,5 @@ Practice code for Project3, taken into 2 big stsps.
   <ul> - Glove </ul>
   <ul> - FastText </ul>
 3. Training
-  <ul> - Learning-To-Rank </ul>ul>
+  <ul> - Learning-To-Rank </ul>
   <ul> - LambdaRank </ul>
